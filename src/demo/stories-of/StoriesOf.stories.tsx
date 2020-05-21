@@ -1,7 +1,7 @@
-import React from 'react'
+import * as React from 'react'
 import { storiesOf } from '@storybook/react'
 
-const title = 'Component 3 stories - using old storiesOf'
+const title = 'storiesOf - old style stories'
 
 export default {
   title,

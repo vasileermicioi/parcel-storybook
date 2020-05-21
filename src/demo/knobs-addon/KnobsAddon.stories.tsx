@@ -1,8 +1,8 @@
-import React from 'react'
+import * as React from 'react'
 import { text } from '@storybook/addon-knobs'
 
 export default {
-  title: 'Component 2 stories - knobs addon testing',
+  title: 'knobs addon',
 }
 
 export const Story1 = () => (
